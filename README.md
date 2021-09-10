@@ -15,3 +15,7 @@ Built a half adder, full adder, 16 bit adder, incrementer, and a simple ALU usin
 ## Project 3
 
 Starting with a data flip flop chip, constructed a 1 bit register, 16 bit register, 16 byte through 32K byte RAM, and a program counter with increment, load, reset, and memory functionality.
+
+## Project 4
+
+Created 2 programs using the Hack assembly language: Mult multiplies two numbers and Fill colors the screen when a key is pressed and clears the screen when no key is pressed

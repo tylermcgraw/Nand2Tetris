@@ -17,10 +17,10 @@ D = A           // D = first register of screen
 @address
 M = D           // Initialize address to screen
 D = M
-@8191
-D = D + A       // D = screen + 8191
+@8192
+D = D + A       // D = screen + 8192
 @max
-M = D           // max = screen + 8191
+M = D           // max = screen + 8192
 (LOOP)
 @color
 M = 0           // Set color to white

@@ -19,3 +19,7 @@ Starting with a data flip flop chip, constructed a 1 bit register, 16 bit regist
 ## Project 4
 
 Created 2 programs using the Hack assembly language: Mult multiplies two numbers and Fill colors the screen when a key is pressed and clears the screen when no key is pressed
+
+## Project 5
+
+Project 5 consisted of putting all the chips I built from weeks past together into a CPU and memory chip, and combining those along with a built in ROM chip to form the Hack computer. The CPU consisted of an ALU, two registers, a program counter, two 16 bit mux gates, and lower level logic gates to ensure proper control flow. The memory used the Harvard variant of the von Neumann architecture which separates program memory (ROM) from data memory (RAM, screen, keyboard). The final Hack computer consisted of these two memory chips combined with the CPU.

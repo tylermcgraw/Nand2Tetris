@@ -23,3 +23,6 @@ Created 2 programs using the Hack assembly language: Mult multiplies two numbers
 ## Project 5
 
 Project 5 consisted of putting all the chips I built from weeks past together into a CPU and memory chip, and combining those along with a built in ROM chip to form the Hack computer. The CPU consisted of an ALU, two registers, a program counter, two 16 bit mux gates, and lower level logic gates to ensure proper control flow. The memory used the Harvard variant of the von Neumann architecture which separates program memory (ROM) from data memory (RAM, screen, keyboard). The final Hack computer consisted of these two memory chips combined with the CPU.
+
+## Project 6
+The cumulation of the first half of the Nand to Tetris Course Part 1 consisted of building an assembler than translated files containing Hack assembly commands into files containing Hack machine language instructions.
